@@ -1,4 +1,5 @@
-tensorflow
+tensorflow==2.0
 tensorflow-addons
 numpy 
 onnx
+torch==1.6.0
